@@ -1,3 +1,57 @@
+### SATMOSYS
+
+## Satelite Monitoring System
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Map its very usefull to us for many purpose, so i try to implement this satelite monitoring app for further use it to make our life easier.
+
+Here's why i make this project:
+
+- We could monitor and make it good data analysis.
+- It could be use for map application map and use it in every place
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and modify your self, or just suggest me for any change you need.
+
+A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+### Built With
+
+This is library that i use to build this project.
+
+- [React](https://reactjs.org/)
+- [ChakraUI](https://chakra-ui.com/)
+
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
